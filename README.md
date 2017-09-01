@@ -1,7 +1,3 @@
-# Pokémon Trading Spreadsheet
-
-A script made to display Pokémon trading information stored in Google Sheets
-
 ## Features
 
 * Display breedables, valuable Pokémon (e.g., shinies or RNGs), or your NFT collection
@@ -61,17 +57,3 @@ If there's been an update, you will need to replace files on your end with the n
 ## Demo
 
 [Google Document](https://docs.google.com/spreadsheets/d/1P9wMb9e0YbhcOua9RQeRCJjllf_L77uV-7i4Q0Yor0o/edit?usp=sharing) → [Result](https://richi3f.github.io/pokemon-trading-spreadsheet/)
-
-## Changelog
-
-* `2017.2.3.0` Game marks (e.g., Blue Pentagon, Black Clover, Pokémon Go, and Virtual Console) are now supported. Feel free to update your spreadsheet accordingly.
-* `2017.1.27.0` EVs (if available) are now displayed below IVs. I have also added Previous/Next buttons when a Pokémon's additional is displayed. Arrow and `HJKL` keys may also be used for navigation. The "Notes" field may also hold links in the following format: `[link text](http://github.com)`. Reddit usernames and subs are also automatically detected and converted into links.
-* `2017.1.20.0` Made compatible with [Armienn's project](https://armienn.github.io/pokemon/?1P9wMb9e0YbhcOua9RQeRCJjllf_L77uV-7i4Q0Yor0o). Added an Egg Group filter and the possibility of renaming some columns. Also, tabs for valuable Pokémon may now store Moves and Egg Moves.
-* `2017.1.15.0` Added [Legend](https://twitter.com/SciresM/status/799324958770032641)/[Sub-Legend](https://twitter.com/SciresM/status/799322666079551488) filter, Reddit table, and support for Hypertrained stats. Other undocumented changes I'm probably forgetting about right now were rolled in too.
-* `2017.1.6.0` Tabs without a prefix ("FT:", "LF:", or "NFT:") are now supported.
-* `2017.1.5.0` Added a search bar and support for NFT tabs (once again, thank you to [Armienn](https://github.com/Armienn)). Fixed Alolan Raichu's model and added minor customization to Tumblr theme.
-* `2017.1.4.0` Added support for more than 3 tabs (thanks to [Armienn](https://github.com/Armienn)). Added extra filters and fixed Hidden Abilities of Pokémon with an Alola Form.
-* `2017.1.3.0` Fixed Pokémon model for those with special characters in their name. Also added support for Pokémon with models with gender differences.
-* `2017.1.2.0` Initial release.
-
-Pokémon is &copy; of Nintendo, 1995-2017.
